@@ -11,3 +11,6 @@ Projekat radjen u srednjoj školi kao pomoć pri prezentovanju osobina lopte,val
 - Navigacija (rotacija/kretanje) pomoću strelica
 - Dimenzije unosite odvojene razmakom
 - Have fun
+
+
+#### Projekat uradjen pomoću [Unity](https://unity.com/)
