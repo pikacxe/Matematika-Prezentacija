@@ -1,4 +1,4 @@
-# Program za vizualizaciju veze izmedju valjka i Lopte
+# Program za vizualizaciju veze izmedju valjka i lopte
 
 ---
 
